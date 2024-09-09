@@ -1,0 +1,1 @@
+This is a Ruby implementation of the Caesar Cipher. It's presently incomplete, as it doesn't account for case and special symbols. Call it Provenzano, if you will.
